@@ -1,0 +1,21 @@
+{
+  "name": "aoc-2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run build && jest",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^24.10.1",
+    "jest": "^30.2.0",
+    "ts-jest": "^29.4.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
