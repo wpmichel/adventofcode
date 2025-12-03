@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run build && jest",
-    "build": "tsc"
+    "build": "tsc",
+    "solve": "ts-node \"$INIT_CWD/soln.ts\""
   },
   "author": "",
   "license": "ISC",
