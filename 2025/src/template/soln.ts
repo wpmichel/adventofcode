@@ -18,5 +18,5 @@ export function solvePart2(s: string) {
 if (require.main === module) {
     const input = readFileSync(join(__dirname, "input.txt"), "utf-8");
     console.log(solvePart1(input));
-    console.log(solvePart2(input));
+    //console.log(solvePart2(input));
 }
