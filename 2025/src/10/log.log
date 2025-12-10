@@ -1,0 +1,2384 @@
+
+> aoc-2025@1.0.0 test
+> npm run build && jest src/10/test.ts -t solves for machine 1 with joltage
+
+
+> aoc-2025@1.0.0 build
+> tsc
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   1
+      ],
+      presses: 2
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   1
+      ],
+      presses: 2
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   1
+      ],
+      presses: 2
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   1
+      ],
+      presses: 2
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   1
+      ],
+      presses: 3
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   1
+      ],
+      presses: 3
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   3
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   1
+      ],
+      presses: 4
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   3
+      ],
+      presses: 5
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   3
+      ],
+      presses: 5
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   3
+      ],
+      presses: 5
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   1
+      ],
+      presses: 5
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   1
+      ],
+      presses: 5
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   3
+      ],
+      presses: 5
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   3
+      ],
+      presses: 5
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   1
+      ],
+      presses: 5
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   1
+      ],
+      presses: 5
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   1
+      ],
+      presses: 5
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   5
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   3
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   1
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   1
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   1
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   1
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   1
+      ],
+      presses: 6
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   5
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   5
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   5
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   3
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   3
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   5
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   5
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   3
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   3
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   5
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   5
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   3
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   3
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   3
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   1
+      ],
+      presses: 7
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   7
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   5
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   3
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   3
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   3
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   3
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   3
+      ],
+      presses: 8
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   1,   7
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   1,   7
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   1,   3,   7
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   5
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   5
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   1,   7
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   3,   3,   7
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   5
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   5
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   7
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   5
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   7
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        1,   5,   3,   5
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   5
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   3
+      ],
+      presses: 9
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   7
+      ],
+      presses: 10
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   1,   3,   7
+      ],
+      presses: 11
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   1,   7
+      ],
+      presses: 11
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   3,   3,   7
+      ],
+      presses: 11
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   1,   7
+      ],
+      presses: 11
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
+  console.log
+    found prior state {
+      state: [
+        '#', '#', '#', '#',
+        3,   5,   3,   7
+      ],
+      presses: 11
+    }
+
+      at solveMachineForVoltages (src/10/soln.ts:155:21)
+
