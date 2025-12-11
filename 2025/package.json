@@ -14,12 +14,16 @@
         "@types/jest": "^30.0.0",
         "@types/mocha": "^10.0.10",
         "@types/node": "^24.10.1",
+        "heap": "^0.2.7",
         "jest": "^30.2.0",
         "ts-jest": "^29.4.5",
         "ts-node": "^10.9.2",
-        "typescript": "^5.9.3"
+        "typescript": "^5.9.3",
+        "yalps": "^0.6.3"
     },
     "dependencies": {
-        "heap": "^0.2.7"
+        "heap": "^0.2.7",
+        "heap-js": "^2.7.1",
+        "yalps": "^0.6.3"
     }
 }
